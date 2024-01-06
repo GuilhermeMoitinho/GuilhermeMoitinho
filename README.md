@@ -1,28 +1,24 @@
-# Olá, eu sou Guilherme Moitinho 👋
+# 💫 About Me:
+Me chamo Guilherme Moitinho, um entusiasta de tecnologia de 19 anos. Desenvolvi uma notável capacidade de aprendizado desde cedo, o que me possibilitou ingressar no campo da programação antes da faculdade. Tenho mais de um ano de experiência prática em desenvolvimento com C# e React.js, adquirindo conhecimento em diversas tecnologias. Meu foco principal é no desenvolvimento backend, utilizando C#/.NET, mas também possuo um conhecimento sólido em JavaScript e TypeScript.
 
-Sou um desenvolvedor .NET apaixonado por tecnologia e inovação. Tenho experiência com SQL Server, MySQL, Oracle e Angular. Gosto de aprender coisas novas e compartilhar o meu conhecimento com a comunidade.
 
-## 🚀 Tecnologias que eu uso
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guilherme-moitinho-177034198/) 
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Ally-CSharp" height="35" width="37" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.svg" /> 
-  <img align="center" alt="Ally-Angular" height="35" width="35" src="https://pic.onlinewebfonts.com/thumbnails/icons_628219.svg">
-  <img align="center" alt="Ally-TS" height="34" width="32" src="https://upload.wikimedia.org/wikipedia/commons/archive/4/4c/20221110153200%21Typescript_logo_2020.svg">
-  <img align="center" alt="Ally-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ally-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ally-SQLServer" height="35" width="35" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png">
-  <img align="center" alt="Ally-MySQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ally-MongoDB" height="35" width="35" src="https://www.svgrepo.com/show/331488/mongodb.svg">
-</div>
+# 💻 Tech Stack:
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GuilhermeMoitinho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMoitinho&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMoitinho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 Estatísticas do GitHub
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GuilhermeMoitinho&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-<div>
-  <a href="[https://github.com/GuilhermeMoitinho](https://github.com/GuilhermeMoitinho)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMoitinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMoitinho&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-## 📫 Como entrar em contato comigo
+---
+[![](https://visitcount.itsvg.in/api?id=GuilhermeMoitinho&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3> <a href="https://www.linkedin.com/in/guilherme-moitinho-177034198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
