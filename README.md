@@ -15,7 +15,7 @@ Me chamo Guilherme Moitinho, um entusiasta de tecnologia de 19 anos. Desenvolvi 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GuilhermeMoitinho&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
+###
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
