@@ -12,7 +12,7 @@
   <a href="mailto:guilhermemoitinho3165@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/guilhermemz7/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/guilhermemz7/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
