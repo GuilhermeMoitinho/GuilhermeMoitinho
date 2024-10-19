@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🖥️ Linguagens: C#, F# and TypeScript
+  🖥️ languages: C#, F# and TypeScript
 </p>
 
 <p align="left">
